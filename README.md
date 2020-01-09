@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Ting Huang's homepage
 
-You can use the [editor on GitHub](https://github.com/huang704/PhDPaperRequirement/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The page is created for the PhD paper requirement of Khoury College of Computer Sciences in Northeastern University. It contains the following information:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Paper link
 
-### Markdown
+Here is a link to one of my papers: [Combining Precursor and Fragment Information for Improved Detection of Differential Abundance in Data Independent Acquisition](https://www.mcponline.org/content/early/2019/12/30/mcp.RA119.001705). It was published on December 30, 2019 by Molecular & Cellular Proteomics (MCP). MCP is a monthly peer-reviewed scientific journal and its impact factor in 2018 is 4.828.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Contribution statement
 
-- Bulleted
-- List
+A statement from Professor Olga Vitek indicating my contributions to the paper and how these contributions provide evidence of research potential.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huang704/PhDPaperRequirement/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with the paper or the statement? Please contact [Ting Huang](huang.tin@husky.neu.edu).
