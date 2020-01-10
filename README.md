@@ -11,7 +11,7 @@
 **Impact factor:** 4.828 (2018)
 
 **Additional Information:**  
-The paper was published on Molecular & Cellular Proteomics (MCP). MCP is a monthly peer-reviewed scientific journal. It is considered as a top journal in proteomics area and its impact factor in 2018 is 4.828. The original format of MCP was not designed for manuscripts whose main contribution is in the computational work. So detailed information about my proposed model is in the [Supplemental Fig. S1] (https://www.mcponline.org/content/mcprot/suppl/2019/12/30/RA119.001705.DC1/154840_1_supp_443469_q2zq36.pdf).
+The paper was published on Molecular & Cellular Proteomics (MCP). MCP is a monthly peer-reviewed scientific journal. It is considered as a top journal in proteomics area and its impact factor in 2018 is 4.828. The original format of MCP was not designed for manuscripts whose main contribution is in the computational work. So detailed information about my proposed model is in the [Supplemental Fig. S1](https://www.mcponline.org/content/mcprot/suppl/2019/12/30/RA119.001705.DC1/154840_1_supp_443469_q2zq36.pdf).
 
 **Contribution statement from Advisor:**  
 
