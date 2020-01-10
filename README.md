@@ -8,10 +8,10 @@
 
 **Venue:** [Molecular & Cellular Proteomics](https://www.mcponline.org/)  
 
-**Impact factore:** 4.828 (2018)
+**Impact factor:** 4.828 (2018)
 
 **Additional Information:**  
-The paper was published on December 30, 2019 by Molecular & Cellular Proteomics (MCP). MCP is a monthly peer-reviewed scientific journal. It is considered as a top journal in bioinformatics area its impact factor in 2018 is 4.828.
+The paper was published on December 30, 2019 by Molecular & Cellular Proteomics (MCP). MCP is a monthly peer-reviewed scientific journal. It is considered as a top journal in proteomics area and its impact factor in 2018 is 4.828.
 
 **Contribution statement from Advisor:**  
 
